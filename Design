@@ -1,0 +1,8 @@
+
+Users ,Photos,Likes,Comments
+
+Users---->Photos,Likes,Comments      One User many (photos,likes,comments)
+
+Photos--->Likes,Comments              One phot Many (likes comments)
+
+Like
